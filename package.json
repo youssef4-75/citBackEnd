@@ -1,0 +1,16 @@
+{
+  "name": "citgate",
+  "version": "1.0.0",
+  "description": "this is a spell to open me the gate into a new realm of possibilities and give me new powers to defeat all challenges i may encouter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youssef haddadi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0"
+  },
+  "type": "module"
+}
